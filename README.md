@@ -25,7 +25,7 @@ This Application is based on two Activities:
 ![SuperHeroDetailActivityScreenshot][superHeroDetailActivityScreenshot]
 
 
-The application architecture, dependencies and configuration is ready to just start writing tests. In this project you'll find  ``Dagger2`` configured to be able to replace production code with test doubles easily and Espresso to be able to interact with the application user interface.
+The application  architecture, dependencies and configuration is ready to just start writing tests. In this project you'll find  ``Dagger2`` configured to be able to replace production code with test doubles easily and Espresso to be able to interact with the application user interface.
 
 
 ## Tasks
