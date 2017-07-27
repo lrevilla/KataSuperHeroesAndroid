@@ -135,5 +135,8 @@ public class SuperHeroesRepository {
                 + "process is mentally draining, and he usually needs recovery time before he can "
                 + "repeat it. Iron Fist can heal himself of any injury or illness and project this "
                 + "power to heal others."));
+    superHeroes.add(new SuperHero("Bocasecaman", "https://i.ytimg.com/vi/TKynoTS1UsQ/hqdefault.jpg",
+            true,
+            "Tiene la lengua como un gatete!"));
   }
 }
